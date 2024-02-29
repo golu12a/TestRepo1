@@ -6,7 +6,7 @@ public class ABCD {
 		
 		System.out.println("Hello Text");
 		System.out.println("Hello Text");
-		System.out.println("Hello Text");
+		
 
 	}
 
